@@ -1,0 +1,78 @@
+/* ============================================================
+  SECTIONS
+============================================================ */
+section.module:last-child {
+  margin-bottom: 0;
+}
+section.module p:last-child {
+  margin-bottom: 0;
+}
+section.module.content {
+  padding: 40px 0;
+}
+section.module.parallax {
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+section.module.parallax h4 {
+  color: rgba(255, 255, 255, 1) ;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+section.module.one {
+  background-image: linear-gradient(0deg, rgba(81, 67, 142, 0.5) 0%, rgba(81, 67, 142, 0.5) 100%), url("/web/20180104172621im_/http://hacknyu.org/images/bg2.jpg");
+  opacity: .75;
+  height: 15em;
+}
+section.module.two {
+  background-image: linear-gradient(0deg, rgba(81, 67, 142, 0.5) 0%, rgba(81, 67, 142, 0.5) 100%), url("/web/20180104172621im_/http://hacknyu.org/images/bg1.jpg");
+  opacity: .75;
+  height: 15em;
+}
+section.module.three {
+  background-image: linear-gradient(0deg, rgba(81, 67, 142, 0.5) 0%, rgba(81, 67, 142, 0.5) 100%), url("/web/20180104172621im_/http://hacknyu.org/images/bg3.jpg");
+  opacity: .75;
+  height: 15em;
+}
+@media all and (min-width: 600px) {
+  section.module h2 {
+    font-size: 42px;
+  }
+  section.module p {
+    font-size: 20px;
+  }
+  section.module.parallax h1 {
+    font-size: 96px;
+  }
+}
+@media all and (min-width: 960px) {
+  section.module.parallax h1 {
+    font-size: 160px;
+  }
+}
+
+/*
+     FILE ARCHIVED ON 17:26:21 Jan 04, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:03:06 Jan 02, 2023.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 141.848
+  exclusion.robots: 0.157
+  exclusion.robots.policy: 0.143
+  RedisCDXSource: 20.709
+  esindex: 0.015
+  LoadShardBlock: 94.294 (3)
+  PetaboxLoader3.datanode: 96.259 (4)
+  CDXLines.iter: 22.088 (3)
+  load_resource: 76.324
+  PetaboxLoader3.resolve: 43.744
+*/
